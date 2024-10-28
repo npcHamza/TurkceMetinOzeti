@@ -19,7 +19,7 @@ Bu script, Python 3.x sürümünü gerektirir. Ek bir kütüphane kullanılmadı
 Scripti çalıştırmak için terminal veya komut istemcisine gidin ve şu komutu kullanın:
 
 ```bash
-python ozmetin.py
+python main.py
 ```
 
 ### Örnek
